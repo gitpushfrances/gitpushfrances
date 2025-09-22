@@ -100,11 +100,10 @@ const developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-  <!-- Snake Animation -->
-  <img src="https://github.com/gitpushfrances/gitpushfrances/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
+  <!-- Tokyonight Snake -->
+  <img src="https://github.com/gitpushfrances/gitpushfrances/blob/output/github-contribution-grid-snake-tokyonight.svg" alt="Snake animation" />
 </div>
+
 
 ## 💭 Developer Motivation
 
