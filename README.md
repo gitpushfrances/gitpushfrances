@@ -16,11 +16,11 @@ not so much, i just need money to buy things i need
 
 ```typescript
 const developer = {
-    name: "John Frances Eder",
-    location: "Mercedes, Eastern Samar, Philippines 🇵🇭",
+    name: "John Frances",
+    location: "Eastern Samar, Philippines 🇵🇭",
     currentRole: "Full Stack Developer",
-    passion: "Learning & understanding computers",
-    hobbies: ["Basketball", "Online Gaming", "Ball Sports"],
+    passion: "Learning & understanding computers so i can teach them to do my work",
+    hobbies: ["racism"],
     motivation: "To innovate technology and create meaningful solutions",
     mission: "Expanding skills, helping others, and building my own purpose",
     debuggingStyle: "rm -rf / is my best friend! 🐛"
