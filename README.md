@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Frances
+# Hi there! 👋 I'm John Frances Eder
 
 <div align="center">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Innovator+from+Eastern+Samar;Basketball+Enthusiast;Always+Learning+%26+Growing!" alt="Typing SVG" />
   
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%"/>
@@ -12,16 +12,18 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating amazing digital experiences. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or brewing the perfect cup of coffee ☕
+I'm a passionate Full Stack Developer from Mercedes, Eastern Samar, Philippines 🇵🇭. I love creating innovative digital solutions and exploring the endless possibilities of technology. When I'm not coding, you'll find me shooting hoops on the basketball court 🏀 or diving into online games.
 
 ```typescript
 const developer = {
-    name: "Frances",
-    location: "Your City 🌍",
-    currentFocus: "Building awesome projects",
-    hobbies: ["Coding", "Learning", "Coffee"],
-    askMeAbout: ["Web Dev", "Tech", "Open Source"],
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+    name: "John Frances Eder",
+    location: "Mercedes, Eastern Samar, Philippines 🇵🇭",
+    currentRole: "Full Stack Developer",
+    passion: "Learning & understanding computers",
+    hobbies: ["Basketball", "Online Gaming", "Ball Sports"],
+    motivation: "To innovate technology and create meaningful solutions",
+    mission: "Expanding skills, helping others, and building my own purpose",
+    debuggingStyle: "console.log() is my best friend! 🐛"
 };
 ```
 
@@ -30,15 +32,29 @@ const developer = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,java,html,css,bash" alt="Languages" />
 
-### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,nextjs,django,flutter" alt="Frameworks" />
+### Frontend Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap" alt="Frontend" />
+
+### Backend & CMS
+<img src="https://skillicons.dev/icons?i=laravel,wordpress,drupal" alt="Backend" />
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,aws,mongodb,mysql,figma,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,arduino,vscode" alt="Tools" />
+
+### AI/ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,numpy" alt="AI/ML" />
 
 </div>
+
+### 🔧 Additional Technologies
+**Package Managers:** NPM | **Authentication:** JWT | **Testing:** Postman | **Code Quality:** Prettier  
+**Cloud Services:** Linode, Firebase | **Project Management:** Jira | **Networking:** Cisco  
+**PHP Frameworks:** Laravel Livewire, Filament | **CMS:** Joomla, Drupal, WordPress
 
 ## 📊 GitHub Stats
 
@@ -69,35 +85,30 @@ const developer = {
 
 <div align="center">
 
-<!-- Project Cards - Update these with your actual project names -->
-<a href="https://github.com/gitpushfrances/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitpushfrances&repo=project1&theme=tokyonight" />
+<!-- Update these with your actual project repository names -->
+<a href="https://github.com/gitpushfrances/your-awesome-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitpushfrances&repo=your-awesome-project&theme=tokyonight" />
 </a>
-<a href="https://github.com/gitpushfrances/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitpushfrances&repo=project2&theme=tokyonight" />
+<a href="https://github.com/gitpushfrances/another-cool-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitpushfrances&repo=another-cool-project&theme=tokyonight" />
 </a>
 
 </div>
+
+> 💡 **Note:** Replace the repository names above with your actual project names!
 
 ## 📈 Contribution Graph
 
 <div align="center">
   
-  <!-- 3D Contribution Graph -->
+  <!-- Snake Animation -->
   <img src="https://github.com/gitpushfrances/gitpushfrances/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
 </div>
 
-## 🎵 Currently Vibing To
+## 💭 Developer Motivation
 
-<div align="center">
-  
-  <!-- Spotify Now Playing - Replace with your Spotify username -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1" alt="Spotify recently played" />
-  
-</div>
-
-## 💭 Random Dev Quote
+> *"My drive as a developer comes from wanting to learn and understand more about computers and how to interact with them. I'm constantly expanding my skills and knowledge to create my own purpose while helping innovate technology for everyone."* 🚀
 
 <div align="center">
   
@@ -105,23 +116,37 @@ const developer = {
   
 </div>
 
+## 🏀 Beyond Coding
+
+When I'm not building amazing applications, you'll find me:
+- 🏀 Playing basketball and other ball sports
+- 🎮 Enjoying online games and digital entertainment
+- 🌱 Continuously learning new technologies
+- 💡 Thinking of ways to innovate and help others through tech
+
 ## 🤝 Connect With Me
 
 <div align="center">
   
-  <!-- Social Media Badges - Update with your actual profiles -->
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/john-frances-eder">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://facebook.com/john.frances.eder">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:johnfrancesquiminaleseder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
+  
+</div>
+
+## 🇵🇭 Proud to be from Eastern Samar
+
+<div align="center">
+  
+  **Representing Mercedes, Eastern Samar in the tech world! 🌟**
+  
+  *Building bridges between traditional Filipino values and modern technology*
   
 </div>
 
@@ -138,23 +163,38 @@ const developer = {
 
 <div align="center">
   
-  ### 💖 Thanks for visiting! 
+  ### 💖 Salamat for visiting! (Thank you!)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
   
   **⭐ Star my repositories if you find them interesting!**
   
+  **🚀 Let's innovate technology together!**
+  
 </div>
 
 <!-- Hidden Easter Egg -->
 <!--
-██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗
-██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║
-███████║██║       ██║   ███████║█████╗  ██████╔╝█████╗  ██║
-██╔══██║██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  ╚═╝
-██║  ██║██║       ██║   ██║  ██║███████╗██║  ██║███████╗██╗
-╚═╝  ╚═╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝
-                                                            
-If you found this easter egg, you're awesome! 🎉
-Frances rocks! 💻✨
+██╗ ██╗███████╗███████╗██████╗ 
+██║ ██║██╔════╝██╔════╝██╔══██╗
+██║ ██║█████╗  █████╗  ██║  ██║
+██╔╝██╔╝██╔══╝  ██╔══╝  ██║  ██║
+██╔╝██╔╝ ███████╗███████╗██████╔╝
+╚═╝ ╚═╝ ╚══════╝╚══════╝╚═════╝ 
+                                
+John Frances Eder from Mercedes, Eastern Samar
+Full Stack Developer | Basketball Player | Tech Innovator
+If you found this easter egg, you're awesome! 🎉🇵🇭
 -->
+
+## ✅ Quick Setup Checklist
+
+**To complete your profile:**
+1. ✅ Username is already set to `gitpushfrances`
+2. ✅ All personal info is customized
+3. ✅ Tech stack matches your skills
+4. 🔄 Update the Featured Projects section with your actual repository names
+5. 🔄 Verify your LinkedIn and Facebook profile URLs are correct
+6. ✅ Email is set correctly
+
+**Your profile will be live at:** `https://github.com/gitpushfrances`
