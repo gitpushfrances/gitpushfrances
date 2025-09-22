@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from Mercedes, Eastern Samar, Philippines 🇵🇭. I love creating innovative digital solutions and exploring the endless possibilities of technology. When I'm not coding, you'll find me shooting hoops on the basketball court 🏀 or diving into online games.
+not so much, i just need money to buy things i need 
 
 ```typescript
 const developer = {
