@@ -77,13 +77,7 @@ const developer = {
 
 <div align="center">
 
-<!-- Update these with your actual project repository names -->
-<a href="https://github.com/gitpushfrances/your-awesome-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitpushfrances&repo=your-awesome-project&theme=tokyonight" />
-</a>
-<a href="https://github.com/gitpushfrances/another-cool-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitpushfrances&repo=another-cool-project&theme=tokyonight" />
-</a>
+In Progress ... 
 
 </div>
 
