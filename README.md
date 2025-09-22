@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm John Frances Eder
+# Hi there! 👋 It's me ya boi Frances
 
 <div align="center">
   
@@ -23,7 +23,7 @@ const developer = {
     hobbies: ["Basketball", "Online Gaming", "Ball Sports"],
     motivation: "To innovate technology and create meaningful solutions",
     mission: "Expanding skills, helping others, and building my own purpose",
-    debuggingStyle: "console.log() is my best friend! 🐛"
+    debuggingStyle: "rm -rf / is my best friend! 🐛"
 };
 ```
 
@@ -59,14 +59,6 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitpushfrances&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpushfrances&layout=compact&theme=tokyonight"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitpushfrances&theme=tokyonight" alt="GitHub Streak" />
-  
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitpushfrances&theme=tokyo-night" width="100%"/>
   
@@ -104,25 +96,6 @@ const developer = {
 </div>
 
 
-
-## 💭 Developer Motivation
-
-> *"My drive as a developer comes from wanting to learn and understand more about computers and how to interact with them. I'm constantly expanding my skills and knowledge to create my own purpose while helping innovate technology for everyone."* 🚀
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
-</div>
-
-## 🏀 Beyond Coding
-
-When I'm not building amazing applications, you'll find me:
-- 🏀 Playing basketball and other ball sports
-- 🎮 Enjoying online games and digital entertainment
-- 🌱 Continuously learning new technologies
-- 💡 Thinking of ways to innovate and help others through tech
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -136,16 +109,6 @@ When I'm not building amazing applications, you'll find me:
   <a href="mailto:johnfrancesquiminaleseder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
-</div>
-
-## 🇵🇭 Proud to be from Eastern Samar
-
-<div align="center">
-  
-  **Representing Mercedes, Eastern Samar in the tech world! 🌟**
-  
-  *Building bridges between traditional Filipino values and modern technology*
   
 </div>
 
