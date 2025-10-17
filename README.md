@@ -75,10 +75,10 @@ const developer = {
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/john-frances-eder">
+  <a href="[https://linkedin.com/in/john-frances-eder](https://www.linkedin.com/in/john-frances-eder-6b20b4255/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://facebook.com/john.frances.eder">
+  <a href="[https://facebook.com/john.frances.eder](https://www.facebook.com/johnfrancesquiminaleseder/)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:johnfrancesquiminaleseder@gmail.com">
@@ -87,14 +87,6 @@ const developer = {
   
 </div>
 
-## 📊 Profile Views & Followers
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=gitpushfrances&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/gitpushfrances?style=for-the-badge&color=blue" alt="Followers"/>
-  
-</div>
 
 ---
 
