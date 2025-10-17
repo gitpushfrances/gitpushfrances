@@ -98,17 +98,6 @@ const developer = {
 
 ---
 
-<div align="center">
-  
-  ### 💖 Salamat for visiting! (Thank you!)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
-  
-  **⭐ Star my repositories if you find them interesting!**
-  
-  **🚀 Let's innovate technology together!**
-  
-</div>
 
 <!-- Hidden Easter Egg -->
 <!--
