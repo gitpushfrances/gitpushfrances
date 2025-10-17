@@ -64,25 +64,6 @@ const developer = {
   
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=gitpushfrances&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-In Progress ... 
-
-</div>
-
-> 💡 **Note:** Replace the repository names above with your actual project names!
-
 ## 📈 Contribution Graph
 
 <div align="center">
