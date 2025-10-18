@@ -17,7 +17,7 @@ not so much, i just need money to buy things i need
 ```typescript
 const developer = {
     name: "John Frances",
-    location: "Eastern Samar, Philippines 🇵🇭",
+    location: "Eastern Samar daw",
     currentRole: "Full Stack Developer",
     passion: "Learning & understanding computers so i can teach them to do my work",
     hobbies: ["racism"],
