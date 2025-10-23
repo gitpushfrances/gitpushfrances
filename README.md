@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-not so much, i just need money to buy things i need 
+
 
 ```typescript
 const developer = {
