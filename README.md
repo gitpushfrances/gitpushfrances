@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Innovator+from+Eastern+Pacific;Enthusiast;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Tech+Innovator+from+Eastern+Pacific;Enthusiast;Always+Learning+%26+Growing!" alt="Typing SVG" />
   
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%"/>
