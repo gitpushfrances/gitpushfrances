@@ -2,14 +2,14 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs every hour
+    - cron: "0 */12 * * *"  # Runs every 12 hours to reduce API rate usage
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # ✅ gives built-in GITHUB_TOKEN write access to branches
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,14 +21,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-tokyonight.svg?palette=blue
             dist/github-contribution-grid-snake-transparent.svg?color_snake=36BCF7&color_dots=#1f2937&background=00000000
-            dist/github-contribution-grid-snake.gif?color_snake=36BCF7&palette=github-dark
 
-      - name: Deploy snake to output branch
+      - name: Deploy Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ use default token instead of PAT
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
