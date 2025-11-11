@@ -23,7 +23,7 @@ const developer = {
     hobbies: ["racism"],
     motivation: "To innovate technology and create meaningful solutions",
     mission: "Expanding skills, helping others, and building my own purpose",
-    debuggingStyle: "rm -rf / is my best friend! 🐛"
+    debuggingStyle: "rm -rf / is the best way to make your machine faster! 🐛"
 };
 ```
 
