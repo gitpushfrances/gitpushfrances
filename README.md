@@ -18,11 +18,11 @@
 const developer = {
     name: "John Frances",
     location: "Biringan City",
-    currentRole: "Semi Full Stack Developer",
+    currentRole: "Semi Junior Full Stack Developer",
     passion: "Learning & understanding computers so i can teach them to do my work",
     hobbies: ["racism"],
-    motivation: "To innovate technology and create meaningful solutions",
-    mission: "Expanding skills, helping others, and building my own purpose",
+    motivation: "To innovate technology and create not so meaningful solutions",
+    mission: "Expanding skills, helping others, and building my own purpose ['False']",
     debuggingStyle: "rm -rf / is the best way to make your machine faster! 🐛"
 };
 ```
