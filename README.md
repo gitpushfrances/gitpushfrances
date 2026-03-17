@@ -1,4 +1,4 @@
-# Hi there! 👋 It's me ya boi Frances
+# Hi there!  It's me ya boi Frances
 
 <div align="center">
   
@@ -10,7 +10,7 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 
 
 
@@ -27,7 +27,7 @@ const developer = {
 };
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -56,7 +56,7 @@ const developer = {
 **Cloud Services:** Linode, Firebase | **Project Management:** Jira | **Networking:** Cisco  
 **PHP Frameworks:** Laravel Livewire, Filament | **CMS:** Joomla, Drupal, WordPress
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <!-- Activity Graph -->
@@ -76,7 +76,7 @@ const developer = {
 </div>
 
 
-## 🤝 Don't Connect With Me
+##  Don't Connect With Me
 
 <div align="center">
   
